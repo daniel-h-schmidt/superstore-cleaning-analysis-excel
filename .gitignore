@@ -1,0 +1,14 @@
+ macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Node (if you use it)
+node_modules/
+
+# Temporary Excel Files
+~$*
+
+# Logs
+*.log
