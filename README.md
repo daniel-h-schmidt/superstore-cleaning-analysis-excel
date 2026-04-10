@@ -59,7 +59,7 @@ A structured cleaning process was applied to ensure data quality while preservin
 *   Flagging ambiguous records instead of removing them
     
 
-**Key Principle:**Records that violated clear business constraints were removed. Records with uncertain validity were retained but flagged.
+**Key Principle:** Records that violated clear business constraints were removed. Records with uncertain validity were retained but flagged.
 
 ### **Key Cleaning Decisions**
 
@@ -168,7 +168,7 @@ To evaluate potential improvements, a revised discount structure was tested.
 
 ### **Approach**
 
-*   Reduced extreme discount levels (e.g., 45% → 40%, 80% → 75%)
+*   Reduced extreme discount levels (e.g., 65% → 60%, 80% → 75%)
     
 *   Simplified discount tiers (e.g. 32% → 30%)
     
